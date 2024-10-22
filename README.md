@@ -1,2 +1,2 @@
-# linfo1252-sysinfo-projet1
+# linfo1252-sysinfo-projet0
 LINFO1252 Systèmes Informatiques - Projet 0
